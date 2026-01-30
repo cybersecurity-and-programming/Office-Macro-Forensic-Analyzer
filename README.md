@@ -44,6 +44,10 @@ La herramienta genera una tabla con los siguientes campos:
 
 Este formato permite documentar el análisis de forma clara y reutilizable en informes forenses o writeups técnicos.
 
+<p align="center">
+<img src="assets/1.png" width="700">
+</p>
+
 🔍 Casos de uso
 
 - Análisis de campañas de phishing basadas en documentos Office
