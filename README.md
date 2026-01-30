@@ -55,3 +55,9 @@ Este formato permite documentar el análisis de forma clara y reutilizable en in
 - Detección de payloads descargados mediante PowerShell o WScript
 - Revisión de técnicas de ofuscación en VBA
 - Preparación de informes DFIR y documentación de incidentes
+
+🧪 Validación en entornos reales
+
+La herramienta ha sido probada con éxito en múltiples ejercicios de análisis forense, incluyendo los retos Game Invitation y Lure de Hack The Box. Ambos escenarios presentan documentos 
+Office con macros maliciosas diseñadas para simular campañas de phishing y distribución de malware, lo que permite evaluar la capacidad del analizador para identificar indicadores de compromiso 
+y técnicas de ofuscación.
